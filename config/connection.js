@@ -18,6 +18,7 @@ if (NODE_ENV === "production") {
     password: "password",
     database: "burgers_db"
   });
+  console.log("listening on 3306")
 }
 
 connection.connect(function (err) {

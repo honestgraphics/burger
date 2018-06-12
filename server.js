@@ -4,6 +4,7 @@ var methodOverride = require("method-override");
 require('dotenv').config();
 
 var PORT = process.env.PORT || 8080;
+console.log("listening on 8080")
 
 var app = express();
 
