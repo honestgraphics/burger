@@ -1,11 +1,13 @@
 # Eat-Da-Burger!
 ## MYSQL Burger Homework
 
+![MYSQL Burger App](https://photos.app.goo.gl/F2dNb7C3j7yA93abA)
+
 ## Background
 This app is called Eat-da-Burger and it was done as homework for the February 2018 UNC Coding Boot Camp.
 
 ## How to get started with the app
-The application can be found online at https://arcane-bastion-71946.herokuapp.com/ . You will more than likely have to wait a little while after visiting this url before Heroku spins up the virtual machine which hosts the project.
+The application is online at https://frozen-hollows-67583.herokuapp.com/. You will more than likely have to wait a little while after visiting this url before Heroku spins up the virtual machine which hosts the project.
 
 Please install Git Bash, MySQL, and Node.js if you want to use the app locally. 
 
